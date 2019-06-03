@@ -1,0 +1,51 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "editor.fontFamily": "'SF Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.lineHeight": 36,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.visible": false,
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.jsxSingleQuote": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "prettier.singleQuote": true,
+    "git.enableSmartCommit": true,
+    "files.associations": { ".blade.php": "html", ".tpl": "html" },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "dart.flutterSdkPath": "/home/gary/flutter",
+    "git.autofetch": true,
+    "city-lights-icons-vsc.hidesExplorerArrows": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.fontWeightBold": "normal",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 15,
+    "workbench.statusBar.visible": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "blade.format.enable": true,
+    "terminal.integrated.fontFamily": "'FuraMono Nerd Font'",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Rainier - Retro",
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#1C1E26",
+		"tab.activeBorder": "#1C1E26",
+        "tab.border": "#1C1E26"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
