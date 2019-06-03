@@ -15,3 +15,5 @@ Package used (recommended):
 - zsh (powerlevel9k)
 - yay
 - valet-linux
+- [figlet-fonts](https://github.com/xero/figlet-fonts)
+- compton (use compton tryone git for blury effect)

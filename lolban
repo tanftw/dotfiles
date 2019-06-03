@@ -1,3 +1,0 @@
-#!/bin/bash
-
-toilet -f '3d.flf' $1 | lolcat
